@@ -1,3 +1,4 @@
+import math
 print("select subject")
 print("1. fluid mechanics")
 print("2.kinematic machinary analytical analysis")
